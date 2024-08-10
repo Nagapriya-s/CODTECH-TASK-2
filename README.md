@@ -9,7 +9,10 @@ Domain: UI/UX DESIGN
 Duration:JULY to AUGUST 20th 2024
 
 Mentor:MUZAMMIL AHMED
+
  ## Overview of Project
+ ![Frame 1](https://github.com/user-attachments/assets/502f3155-204c-44ef-b6d5-3c48c29a025f)
+
  Project 2: Mobile App Wireframe in Figma
 
 ## Objective:
